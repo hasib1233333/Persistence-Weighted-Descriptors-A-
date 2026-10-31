@@ -1,4 +1,4 @@
-Title
+Title (Preprint: DOI:https://doi.org/10.21203/rs.3.rs-10615527/v1)
 
 Persistence-Weighted Descriptors: A Topologically Stable Local Feature Representation for Deformation-Robust Image Matching
 
@@ -11,3 +11,5 @@ Local feature descriptors underpin correspondence estimation across computer vis
 Keywords
 
 local feature descriptors, persistent homology, topological data analysis, image matching, deformation robustness, stability theory
+
+***Paper submitted to the Journal of Mathematical Imaging and Vision.
