@@ -13,3 +13,15 @@ Keywords
 local feature descriptors, persistent homology, topological data analysis, image matching, deformation robustness, stability theory
 
 ***Paper submitted to the Journal of Mathematical Imaging and Vision.
+
+Title
+
+Persistence Weighted Image Descriptors with Certified Stability Bounds under Intensity Perturbations and Exact Monotone Invariance
+
+Abstract
+
+Local descriptors decide which correspondences reach a registration pipeline, yet none of the common ones has a proved bound on its response to intensity perturbations. We build a descriptor from the cubical persistent homology of patches and carry the bottleneck stability theorem through vectorization, normalization and a learned projection with explicit constants. A rank-normalized variant is exactly invariant to strictly increasing intensity transforms. A second bound, valid when short-lived features get zero weight, depends only on the clean patch and is up to 17 times smaller, and we prove that the number of diagram points in such bounds cannot be removed. On real photographs all 158,400 individual inequality checks hold, while the bounds stay two to three orders of magnitude above the observed change. In Monte Carlo registration the descriptor fails more often than SIFT under strong noise and blur, while the rank variant is exact under gamma changes.
+
+Keywords
+
+persistent homology; stability theorem; persistence images; local image descriptors; image registration; topological data analysis
